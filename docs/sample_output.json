@@ -1,0 +1,291 @@
+{
+  "title": "Your 3-Day Trip to Goa (Feb 12–14)",
+  "summary": "3 days in Goa from Bangalore, 1 traveller, comfort style. Total ₹15,657.",
+  "request": {
+    "origin": "Bangalore",
+    "destination": "Goa",
+    "start_date": "2027-02-12",
+    "days": 3,
+    "travelers": 1,
+    "style": "Comfort",
+    "interests": [
+      "museum",
+      "fort"
+    ],
+    "flight_priority": "Balanced",
+    "hotel_priority": "Best value",
+    "min_stars": 1,
+    "max_hotel_price": null,
+    "amenities": [],
+    "budget_cap": 30000,
+    "include_return": true
+  },
+  "engine": {
+    "mode": "rule-based",
+    "provider": null,
+    "model": null,
+    "note": "No LLM key configured. The same tools ran under deterministic rules."
+  },
+  "route": {
+    "origin": "Bangalore",
+    "destination": "Goa",
+    "origin_code": "BLR",
+    "destination_code": "GOI"
+  },
+  "flight": {
+    "outbound": {
+      "type": "direct",
+      "flight_ids": [
+        "FL0021"
+      ],
+      "airline": "Go First",
+      "from": "Bangalore",
+      "to": "Goa",
+      "departure": "07:27",
+      "arrival": "09:27",
+      "duration_minutes": 120,
+      "price": 5356,
+      "stops": 0,
+      "via": null,
+      "arrival_day_offset": 0
+    },
+    "return": {
+      "type": "direct",
+      "flight_ids": [
+        "FL0023"
+      ],
+      "airline": "SpiceJet",
+      "from": "Goa",
+      "to": "Bangalore",
+      "departure": "17:10",
+      "arrival": "20:10",
+      "duration_minutes": 180,
+      "price": 4537,
+      "stops": 0,
+      "via": null,
+      "arrival_day_offset": 0
+    }
+  },
+  "hotel": {
+    "hotel_id": "HOT0014",
+    "name": "Royal Heritage",
+    "city": "Goa",
+    "stars": 5,
+    "price_per_night": 1232,
+    "amenities": [
+      "wifi",
+      "parking",
+      "breakfast",
+      "pool"
+    ],
+    "nights": 2,
+    "rooms": 1,
+    "total": 2464
+  },
+  "weather_note": "Open-Meteo was unreachable, so this is a seasonal estimate.",
+  "itinerary": [
+    {
+      "day": 1,
+      "date": "2027-02-12",
+      "weekday": "Fri",
+      "theme": "Arrival: Fort and Museum",
+      "notes": "",
+      "weather": {
+        "date": "2027-02-12",
+        "condition": "Mostly clear",
+        "icon": "sun",
+        "temp_max": 32,
+        "temp_min": 23,
+        "rain_chance": 0,
+        "source": "estimate"
+      },
+      "activities": [
+        {
+          "slot": "Afternoon",
+          "kind": "place",
+          "title": "Beautiful Park",
+          "type": "fort",
+          "rating": 4.3,
+          "place_id": "PLC0014",
+          "note": ""
+        },
+        {
+          "slot": "Evening",
+          "kind": "place",
+          "title": "Famous Park",
+          "type": "museum",
+          "rating": 4.5,
+          "place_id": "PLC0012",
+          "note": ""
+        }
+      ],
+      "logistics": [
+        "Depart Bangalore at 07:27.",
+        "Land in Goa at 09:27 (Go First), then check in at the hotel."
+      ]
+    },
+    {
+      "day": 2,
+      "date": "2027-02-13",
+      "weekday": "Sat",
+      "theme": "Fort and Museum",
+      "notes": "",
+      "weather": {
+        "date": "2027-02-13",
+        "condition": "Mostly clear",
+        "icon": "sun",
+        "temp_max": 32,
+        "temp_min": 23,
+        "rain_chance": 0,
+        "source": "estimate"
+      },
+      "activities": [
+        {
+          "slot": "Morning",
+          "kind": "place",
+          "title": "Historic Park",
+          "type": "fort",
+          "rating": 4.1,
+          "place_id": "PLC0013",
+          "note": ""
+        },
+        {
+          "slot": "Afternoon",
+          "kind": "place",
+          "title": "Popular Lake",
+          "type": "museum",
+          "rating": 4.2,
+          "place_id": "PLC0011",
+          "note": ""
+        },
+        {
+          "slot": "Evening",
+          "kind": "free",
+          "title": "Evening at leisure",
+          "type": "free",
+          "rating": null,
+          "place_id": null,
+          "note": "Local food and a relaxed walk."
+        }
+      ],
+      "logistics": []
+    },
+    {
+      "day": 3,
+      "date": "2027-02-14",
+      "weekday": "Sun",
+      "theme": "Last day: Market",
+      "notes": "",
+      "weather": {
+        "date": "2027-02-14",
+        "condition": "Mostly clear",
+        "icon": "sun",
+        "temp_max": 32,
+        "temp_min": 23,
+        "rain_chance": 0,
+        "source": "estimate"
+      },
+      "activities": [
+        {
+          "slot": "Morning",
+          "kind": "place",
+          "title": "Beautiful Lake",
+          "type": "market",
+          "rating": 4.0,
+          "place_id": "PLC0015",
+          "note": ""
+        }
+      ],
+      "logistics": [
+        "Check out and fly home at 17:10 (SpiceJet)."
+      ]
+    }
+  ],
+  "budget": {
+    "flights": 9893,
+    "hotel": 2464,
+    "local": 3300,
+    "total": 15657,
+    "per_person": 15657,
+    "nights": 2,
+    "rooms": 1,
+    "travelers": 1,
+    "daily_local_per_person": 1100,
+    "cap": 30000,
+    "difference": 14343,
+    "status": "within"
+  },
+  "reasoning": [
+    "Chose Go First (direct flight, ₹5,356) on a balanced priority. The fastest is 60 min at ₹6,624.",
+    "Return: Chose SpiceJet (direct flight, ₹4,537) on a balanced priority.",
+    "Chose Royal Heritage (5-star, ₹1,232/night) from 5 matching hotel(s) on a 'best value' priority.",
+    "Budget uses 1 room(s) for 2 night(s) and ₹1,100 per person per day for food and local travel."
+  ],
+  "warnings": [
+    "Open-Meteo was unreachable, so this is a seasonal estimate.",
+    "Flight times come from the sample dataset and are applied to your travel dates. Confirm availability before booking."
+  ],
+  "trace": [
+    {
+      "tool": "search_flights",
+      "inputs": {
+        "from": "Bangalore",
+        "to": "Goa"
+      },
+      "summary": "2 option(s); cheapest ₹5,356.",
+      "ms": 0
+    },
+    {
+      "tool": "search_flights",
+      "inputs": {
+        "from": "Goa",
+        "to": "Bangalore"
+      },
+      "summary": "2 option(s); cheapest ₹4,537.",
+      "ms": 0
+    },
+    {
+      "tool": "recommend_hotels",
+      "inputs": {
+        "city": "Goa",
+        "min_stars": 1,
+        "max_price": null,
+        "amenities": []
+      },
+      "summary": "5 hotel(s) match the filters.",
+      "ms": 0
+    },
+    {
+      "tool": "discover_places",
+      "inputs": {
+        "city": "Goa",
+        "interests": [
+          "museum",
+          "fort"
+        ]
+      },
+      "summary": "5 attraction(s); top rated Famous Park (4.5).",
+      "ms": 0
+    },
+    {
+      "tool": "get_weather",
+      "inputs": {
+        "city": "Goa",
+        "start": "2027-02-12",
+        "days": 3
+      },
+      "summary": "Open-Meteo was unreachable, so this is a seasonal estimate.",
+      "ms": 0
+    },
+    {
+      "tool": "estimate_budget",
+      "inputs": {
+        "days": 3,
+        "travelers": 1,
+        "style": "Comfort"
+      },
+      "summary": "Total ₹15,657.",
+      "ms": null
+    }
+  ]
+}

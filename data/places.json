@@ -1,0 +1,50 @@
+
+[
+  {"place_id":"PLC0001","name":"Red Fort","city":"Delhi","type":"fort","rating":4.6},
+  {"place_id":"PLC0002","name":"Lotus Temple","city":"Delhi","type":"temple","rating":4.5},
+  {"place_id":"PLC0003","name":"National Museum","city":"Delhi","type":"museum","rating":4.4},
+  {"place_id":"PLC0004","name":"India Gate","city":"Delhi","type":"monument","rating":4.7},
+  {"place_id":"PLC0005","name":"Lodhi Garden","city":"Delhi","type":"park","rating":4.5},
+
+  {"place_id":"PLC0006","name":"Gateway of India","city":"Mumbai","type":"monument","rating":4.6},
+  {"place_id":"PLC0007","name":"Juhu Beach","city":"Mumbai","type":"beach","rating":4.3},
+  {"place_id":"PLC0008","name":"Chhatrapati Shivaji Maharaj Vastu Sangrahalaya","city":"Mumbai","type":"museum","rating":4.5},
+  {"place_id":"PLC0009","name":"Siddhivinayak Temple","city":"Mumbai","type":"temple","rating":4.6},
+  {"place_id":"PLC0010","name":"Crawford Market","city":"Mumbai","type":"market","rating":4.2},
+
+  {"place_id":"PLC0011","name":"Baga Beach","city":"Goa","type":"beach","rating":4.4},
+  {"place_id":"PLC0012","name":"Calangute Beach","city":"Goa","type":"beach","rating":4.3},
+  {"place_id":"PLC0013","name":"Fort Aguada","city":"Goa","type":"fort","rating":4.5},
+  {"place_id":"PLC0014","name":"Basilica of Bom Jesus","city":"Goa","type":"monument","rating":4.6},
+  {"place_id":"PLC0015","name":"Anjuna Flea Market","city":"Goa","type":"market","rating":4.2},
+
+  {"place_id":"PLC0016","name":"Bangalore Palace","city":"Bangalore","type":"monument","rating":4.5},
+  {"place_id":"PLC0017","name":"Lalbagh Botanical Garden","city":"Bangalore","type":"park","rating":4.6},
+  {"place_id":"PLC0018","name":"ISKCON Temple","city":"Bangalore","type":"temple","rating":4.7},
+  {"place_id":"PLC0019","name":"Commercial Street","city":"Bangalore","type":"market","rating":4.2},
+  {"place_id":"PLC0020","name":"Visvesvaraya Industrial and Technological Museum","city":"Bangalore","type":"museum","rating":4.5},
+
+  {"place_id":"PLC0021","name":"Marina Beach","city":"Chennai","type":"beach","rating":4.4},
+  {"place_id":"PLC0022","name":"Kapaleeshwarar Temple","city":"Chennai","type":"temple","rating":4.7},
+  {"place_id":"PLC0023","name":"Fort St. George","city":"Chennai","type":"fort","rating":4.3},
+  {"place_id":"PLC0024","name":"Government Museum Chennai","city":"Chennai","type":"museum","rating":4.3},
+  {"place_id":"PLC0025","name":"Valluvar Kottam","city":"Chennai","type":"monument","rating":4.2},
+
+  {"place_id":"PLC0026","name":"Charminar","city":"Hyderabad","type":"monument","rating":4.6},
+  {"place_id":"PLC0027","name":"Golconda Fort","city":"Hyderabad","type":"fort","rating":4.5},
+  {"place_id":"PLC0028","name":"Hussain Sagar Lake","city":"Hyderabad","type":"lake","rating":4.3},
+  {"place_id":"PLC0029","name":"Salar Jung Museum","city":"Hyderabad","type":"museum","rating":4.5},
+  {"place_id":"PLC0030","name":"Laad Bazaar","city":"Hyderabad","type":"market","rating":4.3},
+
+  {"place_id":"PLC0031","name":"Victoria Memorial","city":"Kolkata","type":"monument","rating":4.7},
+  {"place_id":"PLC0032","name":"Howrah Bridge","city":"Kolkata","type":"monument","rating":4.6},
+  {"place_id":"PLC0033","name":"Dakshineswar Kali Temple","city":"Kolkata","type":"temple","rating":4.7},
+  {"place_id":"PLC0034","name":"New Market","city":"Kolkata","type":"market","rating":4.2},
+  {"place_id":"PLC0035","name":"Eco Park","city":"Kolkata","type":"park","rating":4.4},
+
+  {"place_id":"PLC0036","name":"Amber Fort","city":"Jaipur","type":"fort","rating":4.7},
+  {"place_id":"PLC0037","name":"Hawa Mahal","city":"Jaipur","type":"monument","rating":4.6},
+  {"place_id":"PLC0038","name":"City Palace Jaipur","city":"Jaipur","type":"museum","rating":4.5},
+  {"place_id":"PLC0039","name":"Jantar Mantar Jaipur","city":"Jaipur","type":"monument","rating":4.5},
+  {"place_id":"PLC0040","name":"Jal Mahal","city":"Jaipur","type":"lake","rating":4.4}
+]

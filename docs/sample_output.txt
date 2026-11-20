@@ -1,0 +1,39 @@
+Your 3-Day Trip to Goa (Feb 12–14)
+==================================
+
+3 days in Goa from Bangalore, 1 traveller, comfort style. Total ₹15,657.
+
+Flight Selected:
+- Go First (₹5,356) – departs Bangalore at 07:27, arrives 09:27 [direct]
+- Return: SpiceJet (₹4,537) – departs Goa at 17:10, arrives 20:10 [direct]
+
+Hotel Booked:
+- Royal Heritage (₹1,232/night, 5-star, wifi, parking, breakfast, pool)
+
+Weather:
+- Day 1: Mostly clear (32°C)
+- Day 2: Mostly clear (32°C)
+- Day 3: Mostly clear (32°C)
+
+Itinerary:
+Day 1 (Fri Feb 12): Beautiful Park, Famous Park
+Day 2 (Sat Feb 13): Historic Park, Popular Lake
+Day 3 (Sun Feb 14): Beautiful Lake
+
+Estimated Total Budget:
+- Flights: ₹9,893
+- Hotel: ₹2,464
+- Food & Travel: ₹3,300
+-------------------------------------
+Total Cost: ₹15,657
+Budget cap ₹30,000: ₹14,343 to spare
+
+Why we chose this:
+- Chose Go First (direct flight, ₹5,356) on a balanced priority. The fastest is 60 min at ₹6,624.
+- Return: Chose SpiceJet (direct flight, ₹4,537) on a balanced priority.
+- Chose Royal Heritage (5-star, ₹1,232/night) from 5 matching hotel(s) on a 'best value' priority.
+- Budget uses 1 room(s) for 2 night(s) and ₹1,100 per person per day for food and local travel.
+
+Notes:
+- Open-Meteo was unreachable, so this is a seasonal estimate.
+- Flight times come from the sample dataset and are applied to your travel dates. Confirm availability before booking.

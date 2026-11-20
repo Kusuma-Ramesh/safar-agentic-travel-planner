@@ -1,0 +1,49 @@
+[
+  {"place_id":"PLC0001","lat":28.6562,"lon":77.2410},
+  {"place_id":"PLC0002","lat":28.5535,"lon":77.2588},
+  {"place_id":"PLC0003","lat":28.6118,"lon":77.2195},
+  {"place_id":"PLC0004","lat":28.6129,"lon":77.2295},
+  {"place_id":"PLC0005","lat":28.5931,"lon":77.2197},
+
+  {"place_id":"PLC0006","lat":18.9220,"lon":72.8347},
+  {"place_id":"PLC0007","lat":19.0988,"lon":72.8267},
+  {"place_id":"PLC0008","lat":18.9269,"lon":72.8326},
+  {"place_id":"PLC0009","lat":19.0169,"lon":72.8305},
+  {"place_id":"PLC0010","lat":18.9470,"lon":72.8353},
+
+  {"place_id":"PLC0011","lat":15.5553,"lon":73.7517},
+  {"place_id":"PLC0012","lat":15.5440,"lon":73.7553},
+  {"place_id":"PLC0013","lat":15.4923,"lon":73.7737},
+  {"place_id":"PLC0014","lat":15.5009,"lon":73.9115},
+  {"place_id":"PLC0015","lat":15.5736,"lon":73.7410},
+
+  {"place_id":"PLC0016","lat":12.9987,"lon":77.5920},
+  {"place_id":"PLC0017","lat":12.9507,"lon":77.5848},
+  {"place_id":"PLC0018","lat":13.0108,"lon":77.5511},
+  {"place_id":"PLC0019","lat":12.9832,"lon":77.6080},
+  {"place_id":"PLC0020","lat":12.9753,"lon":77.5963},
+
+  {"place_id":"PLC0021","lat":13.0500,"lon":80.2824},
+  {"place_id":"PLC0022","lat":13.0336,"lon":80.2697},
+  {"place_id":"PLC0023","lat":13.0793,"lon":80.2870},
+  {"place_id":"PLC0024","lat":13.0694,"lon":80.2574},
+  {"place_id":"PLC0025","lat":13.0524,"lon":80.2420},
+
+  {"place_id":"PLC0026","lat":17.3616,"lon":78.4747},
+  {"place_id":"PLC0027","lat":17.3833,"lon":78.4011},
+  {"place_id":"PLC0028","lat":17.4239,"lon":78.4738},
+  {"place_id":"PLC0029","lat":17.3713,"lon":78.4804},
+  {"place_id":"PLC0030","lat":17.3618,"lon":78.4740},
+
+  {"place_id":"PLC0031","lat":22.5448,"lon":88.3426},
+  {"place_id":"PLC0032","lat":22.5851,"lon":88.3468},
+  {"place_id":"PLC0033","lat":22.6550,"lon":88.3579},
+  {"place_id":"PLC0034","lat":22.5600,"lon":88.3525},
+  {"place_id":"PLC0035","lat":22.6100,"lon":88.4700},
+
+  {"place_id":"PLC0036","lat":26.9855,"lon":75.8513},
+  {"place_id":"PLC0037","lat":26.9239,"lon":75.8267},
+  {"place_id":"PLC0038","lat":26.9258,"lon":75.8237},
+  {"place_id":"PLC0039","lat":26.9248,"lon":75.8246},
+  {"place_id":"PLC0040","lat":26.9535,"lon":75.8467}
+]
